@@ -15,7 +15,8 @@ The project uses the following libraries:
 
 - **data/Balance_Sheet.xlsx** - Contains the balance sheet data for companies.
 - **data/Income_Statement.xlsx** - Contains the income statement data for companies.
-- **![image](https://github.com/user-attachments/assets/b64f1a39-035c-42d5-ac59-904a2b2b503d)** - A generated plot representing the relationship between leverage and profitability ratios.
+- **![image](https://github.com/user-attachments/assets/b64f1a39-035c-42d5-ac59-904a2b2b503d)**
+- A generated plot representing the relationship between leverage and profitability ratios.
 
 ## Requirements
 

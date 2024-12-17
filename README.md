@@ -118,7 +118,7 @@ Example Output
 lowest_profitability real_est
 highest_leverage real_est
 The relationship between leverage and profitability for real estate companies is: positive
-#Conclusion
+# Conclusion
 This project provides insights into the financial behavior of companies across different sectors, focusing particularly on the relationship between leverage and profitability for real estate companies.
 
 
